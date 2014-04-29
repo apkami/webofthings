@@ -1,0 +1,9 @@
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\bin\Debug\PartyLights.exe.config
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\obj\Debug\PartyLights.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\obj\Debug\PartyLights.MainWindow.resources
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\obj\Debug\PartyLights.Properties.Resources.resources
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\obj\Debug\PartyLights.csproj.GenerateResource.Cache
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\bin\Debug\PartyLights.exe
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\bin\Debug\PartyLights.pdb
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\obj\Debug\PartyLights.exe
+d:\user\documents\visual studio 2013\Projects\PartyLights\PartyLights\obj\Debug\PartyLights.pdb
